@@ -1,7 +1,7 @@
 # Crud-Server
 
 ### :pushpin: About project
-<p align="justify">Еhe data server was written for the client krud, based on the apollo server and the mongodb database and the timeframe shell, there are no requests on the server through the token since there was no such task, the usual requests to add, delete and change user data.</p>
+<p align="justify">The data server was written for the client krud, based on the apollo server and the mongodb database and the timeframe shell, there are no requests on the server through the token since there was no such task, the usual requests to add, delete and change user data.</p>
 
 ---
 
